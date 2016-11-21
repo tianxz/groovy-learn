@@ -1,0 +1,32 @@
+# 其它 #
+
+######################################################################################
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# IDEA #
+.idea
+*.iml
+classes
+
+# Gradle #
+.gradle
+build
+gradlew
+gradlew.bat
+
+# out #
+.out
+.lib
+
+# svn #
+.svn
+
+# JRebel #
+rebel.xml
+rebel-remote.xml
+temp.txt

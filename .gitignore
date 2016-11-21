@@ -10,6 +10,7 @@
 
 # IDEA #
 .idea
+.idea/
 *.iml
 classes
 
